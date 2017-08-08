@@ -1,6 +1,4 @@
-## AI-enhanced Mobile Robot for TESP 2017
-
-## Work in progress
+## AI-enhanced Mobile Robot for TESP 2017 (Work in progress)
 
 To use the Object Detection, you need to download the Tensorflow models repository (https://github.com/tensorflow/models). Then, place obj_recogn_chatbot.py inside models/object_detection.
 
