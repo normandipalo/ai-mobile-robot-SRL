@@ -2,7 +2,7 @@
 
 ## Work in progress
 
-To use the Object Detection, you need to download the ** Tensorflow models ** repository. Then, place obj_recogn_chatbot.py inside models/object_detection.
+To use the Object Detection, you need to download the Tensorflow models repository (https://github.com/tensorflow/models). Then, place obj_recogn_chatbot.py inside models/object_detection.
 
 Code for the robot developed with the Tohoku Space Robotics Lab during the Tohoku Engineering Summer Program 2017.
 
