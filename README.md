@@ -8,6 +8,8 @@ To use the Object Detection, you need to download the Tensorflow models reposito
 
 All the nxt files require Python 2, while all the others require Python 3.
 
+Here you can find a Medium post that briefly explains my experience at TESP2017 and the development of the robot. https://medium.com/towards-data-science/what-ive-learned-from-studying-robotics-in-japan-for-two-weeks-bd252961853f
+
 ![alt text](https://github.com/normandipalo/ai-mobile-robot-SRL/blob/master/images/Schermata%202017-08-08%20alle%2010.38.24.png?raw=true?raw=true)
 
 ## How to use
